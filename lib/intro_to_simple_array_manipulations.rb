@@ -28,4 +28,12 @@ end
 
 def using_insert(array)
   
+end
+
+def using_uniq
+
+end
+
+def 
+  
   
