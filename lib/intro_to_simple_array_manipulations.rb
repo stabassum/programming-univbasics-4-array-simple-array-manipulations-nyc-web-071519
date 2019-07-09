@@ -38,11 +38,11 @@ def using_flatten
 
 end
   
-def   using_delete
+def using_delete
   
 end
 
-def using_delete_at
+def using_delete_at(array, int)
   
 end
 
